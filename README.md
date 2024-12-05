@@ -24,4 +24,4 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/FocusTimer.git
+   git clone https://github.com/mahdiabqari/FocusTimer.git
